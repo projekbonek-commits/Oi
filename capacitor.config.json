@@ -1,0 +1,8 @@
+{
+  "appId": "com.market.efootball",
+  "appName": "Market EFootball",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
